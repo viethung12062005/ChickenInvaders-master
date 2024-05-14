@@ -10,8 +10,8 @@
 
 #define WIDTH_CHICKEN 75
 #define HEIGHT_CHICKEN 68
-#define CHICKEN_SPEED 1
-#define CHICKEN_BULLET_SPEED 1
+#define CHICKEN_SPEED 2
+#define CHICKEN_BULLET_SPEED 2
 
 class Chicken : public base {
 public:

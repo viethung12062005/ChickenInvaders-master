@@ -10,7 +10,7 @@
 
 #define WIDTH_BOSS 200
 #define HEIGHT_BOSS 117
-#define BOSS_SPEED 10
+#define BOSS_SPEED 3
 #define BOSS_BULLET_SPEED 3
 
 class Boss : public base {

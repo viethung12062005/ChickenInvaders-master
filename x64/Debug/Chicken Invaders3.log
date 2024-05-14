@@ -1,1 +1,5 @@
-﻿  Chicken Invaders3.vcxproj -> C:\Users\dattr\C++ source code\Chicken Invaders3\x64\Debug\Chicken Invaders3.exe
+﻿  main.cpp
+C:\Users\dattr\C++sourcecode\ChickenInvaders3\Common.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Chicken Invaders3.vcxproj -> C:\Users\dattr\C++sourcecode\ChickenInvaders3\x64\Debug\Chicken Invaders3.exe

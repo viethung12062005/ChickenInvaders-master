@@ -2,7 +2,7 @@
 
 int main(int argc,char* argv[]){
     game_management game;
-    game.init("YASUO");
+    game.init("Chicken Invaders");
     game.menu("Start");
     while (game.get_running())
     {

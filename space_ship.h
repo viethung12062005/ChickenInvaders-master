@@ -8,7 +8,7 @@
 
 #define WIDTH_MAIN 70
 #define HEIGHT_MAIN 57
-#define MAIN_SPEED 5
+#define MAIN_SPEED 8
 #define MAIN_HEART 10
 
 class space_ship : public base {

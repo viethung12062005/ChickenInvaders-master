@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\dattr\C++ source code\Chicken Invaders3\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\dattr\C++ source code\Chicken Invaders3\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\dattr\C++sourcecode\ChickenInvaders3\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\dattr\C++sourcecode\ChickenInvaders3\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
