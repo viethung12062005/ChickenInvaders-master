@@ -36,3 +36,4 @@ Tìm file Chicken Invaders3.exe và chạy file.
 - Sử dụng Photoshop để edit ảnh
 # VI, Tham khảo:
 - https://lazyfoo.net/tutorials/SDL/index.php#Getting%20an%20Image%20on%20the%20Screen
+- Các thư viện hình ảnh
